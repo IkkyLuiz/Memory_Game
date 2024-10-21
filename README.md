@@ -6,8 +6,10 @@ Neste projeto, utilizei HTML,CSS e JavaScript para criar um jogo da memória sim
 
 ## Objetivos
 - Colocar em Prática os conhecimentos adquiridos no curso;
+- Aprender na Prática HTML;
 - Entender sobre estilização com CSS;
-- Enriquecer o Portfólio de Projetos
+- Enriquecer o Portfólio de Projetos;
+- Praticar JavaScript;
 - Versionar Código no Git e Github;
 
 ## Ferramentas Utilizadas
