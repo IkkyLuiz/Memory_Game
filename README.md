@@ -19,4 +19,5 @@ Neste projeto, utilizei HTML,CSS e JavaScript para criar um jogo da memória sim
 - [Projeto Original](https://github.com/digitalinnovationone/js-emoji-memory-game/tree/main/src)
 
   ## Resultado
-  ![Imagem do Resultado](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77lOf0WLlGtfyfvEo-mDAQZJNZHS3ZLhNLQ&s)
+  ![Imagem do Resultado](https://github.com/IkkyLuiz/Memory_Game/blob/main/img/Slide1.PNG)
+![Fim do Jogo!](https://github.com/IkkyLuiz/Memory_Game/blob/main/img/Slide2.PNG)
